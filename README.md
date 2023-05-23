@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://github.com/GwGibson/IOT1026-Assignment-1/actions/workflows/ci.yml">
+	<a href="https://github.com/A00273725/IOT1026-Assignment-1/actions/workflows/ci.yml">
     <img src="https://github.com/GwGibson/IOT1026-Assignment-1/actions/workflows/ci.yml/badge.svg"/>
     </a>
 	<a href="https://github.com/GwGibson/IOT1026-Assignment-1/actions/workflows/formatting.yml">
